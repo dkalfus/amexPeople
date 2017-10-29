@@ -1,0 +1,6 @@
+amex/startup/StartupInit.class
+amex/controller/PersonController.class
+amex/dto/PersonDto.class
+amex/repository/PersonRepository.class
+amex/Application.class
+amex/domain/Person.class
